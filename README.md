@@ -1,6 +1,6 @@
-- 👋 Hola soy Emanuel Montenegro
-- 👀 Me intereza mucho la Programacion
+- 👋 Hola soy Emanuel Montenegro Analista de Sistemas
+- 👀 Me intereza mucho la Programacion 
 - 🌱 estoy en cosntante aprendisaje...
 - 💞️ Me encantaria Colaborar con su Empresa.
-- 📫 Mi email: emanuel_efm@hotmail.com
+- 📫 Mi email: emamonte777@gmail.com
 
