@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Francisco Emanuel Montenegro</h1>
-<h3 align="center">Un desarrollador frontend apasionado de Argentina</h3>
+<h1 align="center">Hola 👋, soy Francisco Emanuel Montenegro-Un desarrollador FullStack</h1>
+<h3 align="center">Analista Universitario-Lic en Informatica</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=emanuelfmontenegro&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelfmontenegro" /> </p>
 
