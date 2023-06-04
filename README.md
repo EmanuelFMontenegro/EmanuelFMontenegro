@@ -80,7 +80,7 @@
   </a>
 </p>
 
-<h4 align="left">Metodología Ágiles:</h4>
+<h4 align="left">Metodologías Ágiles:</h4>
 <p align="left">
   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Agile/scrum.png" alt="scrum" height="40" style="margin-right: 10px" />
@@ -98,6 +98,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Agile/uml.png" alt="uml" height="40" style="margin-right: 10px" />
   </a>
 </p>
+
 
 <h4 align="left">Deploy:</h4>
 <p align="left">
