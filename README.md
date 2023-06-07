@@ -1,13 +1,17 @@
+¡Hola Francisco Emanuel Montenegro!
+
+Aquí tienes el texto actualizado:
+
 <h1 align="center">Hola 👋, soy Francisco Emanuel Montenegro</h1>
 <h3 align="center">Desarrollador FullStack Web de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en [Creación de Punto de Venta en Java](https://github.com/EmanuelFMontenegro/Punto-de-Venta/tree/master/src)
+- 🔭 Actualmente estoy trabajando en [Proyecto Académico de Analista de Sistemas](https://github.com/EmanuelFMontenegro/Punto-de-Venta/tree/master/src)
 
 - 🌱 Actualmente estoy aprendiendo **Cursos**
 
-- 👯 Busco colaborar en [Personalizacion de WijiJS-Yacaré](Personalizacion de WijiJS-Yacaré)
+- 👯 Busco colaborar en [Personalización de WijiJS-Yacaré](Personalización de WijiJS-Yacaré)
 
-- 🤝 Busco ayuda con [Proyecto Academico App-React-native](https://github.com/EmanuelFMontenegro/AppReact-Native)
+- 🤝 Busco ayuda con [Proyecto Académico App-React-native](https://github.com/EmanuelFMontenegro/AppReact-Native)
 
 - 📫 Cómo para comunicarse conmigo **emamonte777@gmail.com**
 
@@ -39,7 +43,9 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40" style="margin-right: 10px" />
   </a>
   <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" height="40" style="margin-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" height="
+
+40" style="margin-right: 10px" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="40" style="margin-right: 10px" />
@@ -76,7 +82,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original-wordmark.svg" alt="oracle" height="40" style="margin-right: 10px" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="40" style="margin-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="40" style="margin
+
+-right: 10px" />
   </a>
 </p>
 
