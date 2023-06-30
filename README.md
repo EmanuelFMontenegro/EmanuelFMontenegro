@@ -1,13 +1,9 @@
 <h1 align="center">Hola 👋, soy Francisco Emanuel Montenegro</h1>
 <h3 align="center">Desarrollador FullStack Web de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en [Proyecto Académico de Analista de Sistemas](https://github.com/EmanuelFMontenegro/Punto-de-Venta/tree/master/src)
+- 🔭 Actualmente estoy trabajando en [Proyecto Académico App-React-native](https://github.com/EmanuelFMontenegro/AppReact-Native)
 
-- 🌱 Actualmente estoy aprendiendo **Cursos**
-
-- 👯 Busco colaborar en [Personalización de WijiJS-Yacaré](Personalización de WijiJS-Yacaré)
-
-- 🤝 Busco ayuda con [Proyecto Académico App-React-native](https://github.com/EmanuelFMontenegro/AppReact-Native)
+- 🌱 Actualmente estoy aprendiendo **Cursos de React avanzado**
 
 - 📫 Cómo para comunicarse conmigo **emamonte777@gmail.com**
 
@@ -38,8 +34,9 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40" style="margin-right: 10px" />
   </a>
-  <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" height="40" style="margin-right: 10px" />
+<a href="https://material-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" height="30" style="margin-right: 10px" />
+  </a>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="40" style="margin-right: 10px" />
