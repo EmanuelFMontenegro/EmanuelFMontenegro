@@ -1,7 +1,3 @@
-¡Hola Francisco Emanuel Montenegro!
-
-Aquí tienes el texto actualizado:
-
 <h1 align="center">Hola 👋, soy Francisco Emanuel Montenegro</h1>
 <h3 align="center">Desarrollador FullStack Web de Argentina</h3>
 
@@ -43,9 +39,7 @@ Aquí tienes el texto actualizado:
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40" style="margin-right: 10px" />
   </a>
   <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" height="
-
-40" style="margin-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" height="40" style="margin-right: 10px" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="40" style="margin-right: 10px" />
@@ -63,9 +57,6 @@ Aquí tienes el texto actualizado:
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" style="margin-right: 10px" />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original-wordmark.svg" alt="dotnet" height="40" style="margin-right: 10px" />
-  </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40" style="margin-right: 10px" />
   </a>
@@ -82,9 +73,7 @@ Aquí tienes el texto actualizado:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original-wordmark.svg" alt="oracle" height="40" style="margin-right: 10px" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="40" style="margin
-
--right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="40" style="margin-right: 10px" />
   </a>
 </p>
 
