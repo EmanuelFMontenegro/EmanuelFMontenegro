@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Francisco Emanuel Montenegro</h1>
-<h3 align="center">Desarrollador FullStack Web de Argentina</h3>
+<h3 align="center">Desarrollador Frontend Web developer Ssr</h3>
 
-- 🔭 Actualmente estoy trabajando en [Proyecto Fenix]((https://github.com/EmanuelFMontenegro/Fenix))
+- 🔭 Actualmente estoy trabajando en Portal Web(Empresa Agrosustentable)
 
 - 🌱 Actualmente estoy aprendiendo **Cursos de React avanzado**
 
