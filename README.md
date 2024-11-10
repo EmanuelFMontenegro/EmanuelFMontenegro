@@ -24,7 +24,7 @@
 ### 🔗 Conéctate conmigo
 <p align="left">
   <a href="https://www.linkedin.com/in/emanuelfmontenegro/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Emanuel Montenegro LinkedIn" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Emanuel Montenegro LinkedIn" height="30" />
   </a>
 </p>
 
