@@ -11,21 +11,53 @@
   </a>
 </p>
 
+### 👨‍💻 Sobre mí
 - 🔭 I’m currently working on [Portal Agro](https://github.com/EmanuelFMontenegro/PortalAgro)
 - 🌱 I’m currently learning **AI**
 - 🤝 I’m looking for help with [Curse React Advance](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/learn/lecture/29679702?start=0#overview)
 - 👨‍💻 All of my projects are available at [https://github.com/EmanuelFMontenegro](https://github.com/EmanuelFMontenegro)
-- 💬 Ask me about **react,angular,node**
+- 💬 Ask me about **React, Angular, Node**
 - 📫 How to reach me **emamonte777@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔗 Conéctate conmigo
 <p align="left">
-  <!-- Aquí puedes añadir enlaces a tus redes sociales si los tienes -->
+  <!-- Añade aquí enlaces a tus redes sociales si los tienes -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🖥️ Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,git,kubernetes,docker,c,bootstrap,cs,cpp,css,dotnet,figma,gitlab,html,java,kali,materialui,mysql,nodejs,npm,php,postgres,postman,redux,sass,spring,visualstudio,vite,vscode,webpack,tensorflow,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,tailwind,react,vue,angular,flutter" alt="Frontend Skills" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,spring,java,python" alt="Backend Skills" />
+  </a>
+</p>
+
+---
+
+### ☁️ Despliegue y DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" alt="DevOps Tools" />
+  </a>
+</p>
+
+---
+
+### 🧰 IDEs y Herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,git,github,gitlab,tensorflow" alt="Tools and IDEs" />
   </a>
 </p>
